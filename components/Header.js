@@ -30,7 +30,7 @@ const Header = () => {
                     transition: 'color 0.2s ease-in-out',
                     
             }}
-            >Daniella</Typography>
+            >ELIZABETE LAMA</Typography>
         {/*  Nav links */}
         <Box sx={{
           display: 'flex',
